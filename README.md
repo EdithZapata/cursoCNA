@@ -3,5 +3,5 @@
 Este es un plugin
 
 ```html
-<divhola</div>
+<div>hola</div>
 ```
